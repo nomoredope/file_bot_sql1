@@ -4,11 +4,11 @@
  ##################################################
 --------------------------------------------------------------
  1. Установите необходимые библиотеки/api/фреймворки
- pip install elevate
- pip install bs4
- pip install PyMySQL
- pip install pyTelegramBotAPI
- pip install requests
+ 1) pip install elevate
+ 2) pip install bs4
+ 3) pip install PyMySQL
+ 4) pip install pyTelegramBotAPI
+ 5) pip install requests
 --------------------------------------------------------------
  2. Создайте базу данных (MySQL)
  CREATE SCHEMA `new_schema` ;
